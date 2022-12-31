@@ -1,4 +1,4 @@
-import React from "react";
+
 
 // se crea componente con function declaration
 
